@@ -1,0 +1,9 @@
+.vscode/
+
+build/
+
+.DS_Store
+
+*.icloud
+
+*.zip

@@ -1,0 +1,6 @@
+# Exclude report files.
+report*
+
+# Exclude Dockerfile
+Dockerfile
+start_docker.sh
